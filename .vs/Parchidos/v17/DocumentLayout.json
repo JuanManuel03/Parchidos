@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|d:\\data disco kingston\\data disco ssd\\users\\juanj\\source\\repos\\parchidosv5\\parchidos\\parchis\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|solutionrelative:parchis\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|d:\\data disco kingston\\data disco ssd\\users\\juanj\\source\\repos\\parchidosv5\\parchidos\\parchis\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|solutionrelative:parchis\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|d:\\data disco kingston\\data disco ssd\\users\\juanj\\source\\repos\\parchidosv5\\parchidos\\parchis\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|solutionrelative:parchis\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|d:\\data disco kingston\\data disco ssd\\users\\juanj\\source\\repos\\parchidosv5\\parchidos\\parchis\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|solutionrelative:parchis\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|d:\\data disco kingston\\data disco ssd\\users\\juanj\\source\\repos\\parchidosv5\\parchidos\\parchis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|solutionrelative:parchis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|d:\\data disco kingston\\data disco ssd\\users\\juanj\\source\\repos\\parchidosv5\\parchidos\\parchis\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E39557B7-B81E-4758-A4A2-DB0F51017808}|Parchis\\Parchidos.csproj|solutionrelative:parchis\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Const.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Const.cs",
+              "RelativeDocumentMoniker": "Parchis\\Const.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Const.cs",
+              "RelativeToolTip": "Parchis\\Const.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:55:47.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ficha.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Ficha.cs",
+              "RelativeDocumentMoniker": "Parchis\\Ficha.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Ficha.cs",
+              "RelativeToolTip": "Parchis\\Ficha.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:55:43.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUI.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\GUI.cs",
+              "RelativeDocumentMoniker": "Parchis\\GUI.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\GUI.cs",
+              "RelativeToolTip": "Parchis\\GUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:55:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tablero.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Tablero.cs",
+              "RelativeDocumentMoniker": "Parchis\\Tablero.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Tablero.cs",
+              "RelativeToolTip": "Parchis\\Tablero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:55:17.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Program.cs",
+              "RelativeDocumentMoniker": "Parchis\\Program.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Program.cs",
+              "RelativeToolTip": "Parchis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:55:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Main.cs",
+              "RelativeDocumentMoniker": "Parchis\\Main.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\ParchidosV5\\Parchidos\\Parchis\\Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parchis\\Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:55:08.926Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

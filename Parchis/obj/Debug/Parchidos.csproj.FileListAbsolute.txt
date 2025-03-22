@@ -1,0 +1,20 @@
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchidos.csproj.AssemblyReference.cache
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.Main.resources
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.Properties.Resources.resources
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchidos.csproj.GenerateResource.cache
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchidos.csproj.CoreCompileInputs.cache
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.exe
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.pdb
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\bin\Debug\Parchis.exe.config
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\bin\Debug\Parchis.exe
+C:\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\bin\Debug\Parchis.pdb
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\bin\Debug\Parchis.exe.config
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\bin\Debug\Parchis.exe
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\bin\Debug\Parchis.pdb
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchidos.csproj.AssemblyReference.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.Main.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.Properties.Resources.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchidos.csproj.GenerateResource.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchidos.csproj.CoreCompileInputs.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.exe
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\ParchidosV5\Parchidos\Parchis\obj\Debug\Parchis.pdb
